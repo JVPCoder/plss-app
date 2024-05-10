@@ -4,7 +4,7 @@ O que foi usado na criação do projeto:
 
 - 🤖 Linguagem principal Backend - **[PHP 8.2.12](https://www.php.net)** 
 - ⚙️ Framework PHP - **[Laravel](https://laravel.com)** 
-- 📒 Toolkit de estilização baseado em Sass **[Bootstrap](https://getbootstrap.com)**
+- 📒 Toolkit de estilização baseado em Sass - **[Bootstrap](https://getbootstrap.com)**
 - 🎲 Banco de dados - **[MySQL](https://www.mysql.com)** 
 - 🛅 Host - **[XAMPP](https://www.apachefriends.org/pt_br/index.html)**
 
